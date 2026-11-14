@@ -1,0 +1,11 @@
+langchain-core
+langchain-groq
+langchain-tavily
+langgraph
+langgraph-checkpoint-postgres
+psycopg[binary]>=3.2
+python-dotenv
+reportlab>=4.2,<5
+requests
+streamlit
+tavily-python

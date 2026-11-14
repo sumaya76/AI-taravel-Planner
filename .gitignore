@@ -1,0 +1,19 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+env/
+langgraph_env3/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local tooling and logs
+.vscode/
+*.log
